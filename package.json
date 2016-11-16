@@ -1,7 +1,7 @@
 {
-  "name": "exchange-autodiscover",
+  "name": "exchange-autodiscover-es5",
   "version": "1.0.2",
-  "description": "Access Microsoft's SOAP Autodiscover Service with optional DNS querying",
+  "description": "Access Microsoft's SOAP Autodiscover Service with optional DNS querying (EcmaScript 5)",
   "main": "lib",
   "author": "tholle",
   "licenses": [
@@ -10,7 +10,7 @@
       "url": "https://github.com/EmilTholin/node-exchange-autodiscover/blob/master/LICENSE"
     }
   ],
-  "repository": "EmilTholin/node-exchange-autodiscover",
+  "repository": "emirdev/node-exchange-autodiscover",
   "dependencies": {
     "bluebird": "^3.0.6",
     "request-promise": "^1.0.2",
